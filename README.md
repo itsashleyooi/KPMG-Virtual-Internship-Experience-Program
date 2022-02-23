@@ -1,7 +1,9 @@
 # KPMG-Virtual-Internship-Experience-Program
 
 KPMG Virtual Experience Program Participant [2022] - [~6 hours]
+
 Participated in the open access [KPMG] Virtual Experience Program with Forage.
+
 Tasks Completed include:
 - Data Quality Assessment
 - Data Insights
